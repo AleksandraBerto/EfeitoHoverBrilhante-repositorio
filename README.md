@@ -8,7 +8,7 @@ O projeto demonstra o poder do CSS para a criação de efeitos avançados, com f
 * **Pseudo-elementos**: Para criar o efeito de borda brilhante.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/EfeitoHoverBrilhante-repositorio/
 
 ## 📂 Estrutura do projeto
 /BrilliantHoverCards
